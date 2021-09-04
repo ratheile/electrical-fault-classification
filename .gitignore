@@ -1,0 +1,7 @@
+logs
+lstm
+mlp
+logs_tb
+lstm_bklp
+*.pyc
+.vscode
